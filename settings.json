@@ -1,0 +1,123 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "background.customImages": [
+
+        "C:\\Users\\andre\\Pictures\\Emotes\\3993_TiredCat.png"
+
+    ],
+    "background.styles": [
+
+        {},
+        {},
+        {}
+    ],
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": false,
+    "stories.username": "specific_Aloysia",
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "python.pythonPath": "C:\\Python38\\python38.exe",
+    "idf.espIdfPathWin": "C:\\Users\\andre\\esp\\esp-idf",
+    "idf.pythonBinPathWin": "C:\\Users\\andre\\.espressif\\python_env\\idf4.2_py3.7_env\\Scripts\\python.exe",
+    "idf.customExtraPaths": "C:\\Users\\andre\\.espressif\\tools\\xtensa-esp32-elf\\esp-2020r3-8.4.0\\xtensa-esp32-elf\\bin;C:\\Users\\andre\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2020r3-8.4.0\\xtensa-esp32s2-elf\\bin;C:\\Users\\andre\\.espressif\\tools\\esp32ulp-elf\\2.28.51-esp-20191205\\esp32ulp-elf-binutils\\bin;C:\\Users\\andre\\.espressif\\tools\\esp32s2ulp-elf\\2.28.51-esp-20191205\\esp32s2ulp-elf-binutils\\bin;C:\\Users\\andre\\.espressif\\tools\\cmake\\3.16.4\\bin;C:\\Users\\andre\\.espressif\\tools\\openocd-esp32\\v0.10.0-esp32-20200709\\openocd-esp32\\bin;C:\\Users\\andre\\.espressif\\tools\\ninja\\1.10.0;C:\\Users\\andre\\.espressif\\tools\\idf-exe\\1.0.1;C:\\Users\\andre\\.espressif\\tools\\ccache\\3.7;C:\\Users\\andre\\.espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "C:\\Users\\andre\\.espressif\\tools\\openocd-esp32\\v0.10.0-esp32-20200709/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1"
+    },
+    "cmake.configureOnOpen": true,
+    "jupyter.askForKernelRestart": false,
+    "terminal.integrated.tabs.enabled": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\nullcline\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "editor.inlineSuggest.enabled": true,
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.colorTheme": "Nord",
+    "remote.SSH.remotePlatform": {
+        "10.0.0.10": "linux",
+        "10.0.0.11": "linux",
+        "kyogre": "linux",
+        "nullcline": "linux",
+        "142.103.238.83": "linux",
+        "142.103.238.77": "linux",
+        "192.168.4.1": "linux",
+        "178.128.237.174": "linux",
+        "142.103.238.76": "linux"
+    },
+    "editor.guides.bracketPairs": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#008f88",
+        "editor.selectionHighlightBackground": "#1c46ff",
+        "editor.findMatchBackground": "#00cc44a8", //Current SEARCH MATCH
+        "editor.findMatchHighlightBackground": "#ff7b00a1", //Other SEARCH MATCHES
+        "numberedBookmarks.lineBackground": "#007700"
+    },
+    "glassit.alpha": 250,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Ubuntu-18.04 (WSL)": {
+            "path": "C:\\Windows\\System32\\wsl.exe",
+            "args": [
+                "-d",
+                "Ubuntu-18.04"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.bracketPairColorization.enabled": true,
+    "terminal.integrated.scrollback": 5000,
+    "editor.largeFileOptimizations": false,
+    "editor.fontFamily": "MesloLGS NF",
+    "editor.matchBrackets": "never",
+    "settingsSync.ignoredExtensions": [
+
+    ],
+    "editor.fontSize":17.7,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "vs-kubernetes": {
+        "vs-kubernetes.knownKubeconfigs": [
+            "/home/andrew/.kube/config"
+        ],
+        "vs-kubernetes.kubeconfig": "/home/andrew/.kube/config",
+        "vscode-kubernetes.helm-path.linux": "/home/andrew/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.kubectl-path.linux": "/home/andrew/.local/state/vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.linux": "/home/andrew/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vscode-kubernetes.kubectl-path.windows": "C:\\Users\\nullcline\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+        "vscode-kubernetes.helm-path.windows": "C:\\Users\\nullcline\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.minikube-path.windows": "C:\\Users\\nullcline\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    },
+    "editor.accessibilitySupport": "off",
+    "notebook.lineNumbers": "on",
+    "window.zoomLevel": -2,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "editor.stickyScroll.enabled": true,
+
+}
