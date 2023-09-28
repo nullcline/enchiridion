@@ -3,5 +3,7 @@ i like windows - i can run my primary engineering softwares (solidworks, altium)
 
 my preferred software dev tools on windows are vscode for almost all actual programming (python, rust, c++, c, even embedded stuff), although i've been playing around with cursor. for my terminal i really like the built in windows terminal - it lets me run various different types of terminals (BASH emulation, WSL2, default windows terminal, powershell), and plays well with thinks like _oh my bash_ and _oh my zsh_, (this repo is partially to store my .bsrhc/.zshrc files)
 
+![my terminals](assets/terminals.png)
+
 ### Python Scripts
 i'll update this one day maybe, this became a lot less useful when GPT-4 came out
